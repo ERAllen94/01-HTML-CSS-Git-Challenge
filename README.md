@@ -44,7 +44,7 @@ You are required to submit the following for review:
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
 ## Screenshot
-![GitHub Logo](./Develop/assets/images/01-html-css-git-homework-demo.png) Format: !
+![alt text](./Develop/assets/images/01-html-css-git-homework-demo.png)
 
 ## Link to deployed application
 https://sirubu.github.io/01-HTML-CSS-Git-Challenge/
