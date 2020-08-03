@@ -44,8 +44,7 @@ You are required to submit the following for review:
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
 ## Screenshot
-![GitHub Logo](./Develop/assets/images/01-html-css-git-homework-demo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](./Develop/assets/images/01-html-css-git-homework-demo.png) Format: !
 
 ## Link to deployed application
 https://sirubu.github.io/01-HTML-CSS-Git-Challenge/
@@ -53,7 +52,7 @@ https://sirubu.github.io/01-HTML-CSS-Git-Challenge/
 ## CheckList for Completion
 
 ### Technical Acceptance Criteria: 40%
-- [ ] Application's links all function correctly.
+- [x] Application's links all function correctly.
 - [ ] Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
 - [ ] Application's CSS file is properly commented.
 ### Deployment: 32%
@@ -65,8 +64,8 @@ https://sirubu.github.io/01-HTML-CSS-Git-Challenge/
 - [ ] Application resembles (at least 90%) screenshots provided in challenge instructions.
 ### Repository Quality: 13%
 - [x] Repository has a unique name.
-- [ ] Repository follows best practices for file structure and naming conventions.
-- [ ] Repository contains multiple descriptive commit messages.
+- [x] Repository follows best practices for file structure and naming conventions.
+- [x] Repository contains multiple descriptive commit messages.
 - [x] Repository contains quality README file with description, screenshot, and link to deployed application.
 ### Submit the Challenge
 - [ ] URL of the deployed application.
