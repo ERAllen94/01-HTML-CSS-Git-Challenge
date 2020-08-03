@@ -53,20 +53,20 @@ https://sirubu.github.io/01-HTML-CSS-Git-Challenge/
 
 ### Technical Acceptance Criteria: 40%
 - [x] Application's links all function correctly.
-- [ ] Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-- [ ] Application's CSS file is properly commented.
+- [x] Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+- [x] Application's CSS file is properly commented.
 ### Deployment: 32%
 - [x] Application deployed at live URL.
-- [ ] Application loads with no errors.
-- [ ] Application GitHub URL Submitted.
-- [ ] GitHub repository that contains application code.
+- [x] Application loads with no errors.
+- [x] Application GitHub URL Submitted.
+- [x] GitHub repository that contains application code.
 ### Application Quality: 15%
-- [ ] Application resembles (at least 90%) screenshots provided in challenge instructions.
+- [x] Application resembles (at least 90%) screenshots provided in challenge instructions.
 ### Repository Quality: 13%
 - [x] Repository has a unique name.
 - [x] Repository follows best practices for file structure and naming conventions.
 - [x] Repository contains multiple descriptive commit messages.
 - [x] Repository contains quality README file with description, screenshot, and link to deployed application.
 ### Submit the Challenge
-- [ ] URL of the deployed application.
-- [ ] URL of the GitHub repository that contains you code.
+- [x] URL of the deployed application.
+- [x] URL of the GitHub repository that contains you code.
